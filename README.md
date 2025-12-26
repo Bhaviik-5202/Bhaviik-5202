@@ -1,5 +1,4 @@
 <div align="center">
-  
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bhaviik%20Parmar&fontSize=65&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Student%20Developer%20%7C%20CS%20Student%20%40%20Darshan%20University&descSize=22&descAlignY=60" />
 
@@ -16,12 +15,11 @@
   </p>
 
 </div>
-
 <br>
 
 ---
 
-# 💫 About Me:
+# 💫 About Me :
 
 - 🔭 Working on a **MERN-Based Project**  
 - 🌱 Exploring **Backend Logic** and **Database Design**
@@ -30,7 +28,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavik-parmar-51baa1303)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Bhaviik-5202)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:er.bhavik5202@gmail.com)
@@ -41,7 +39,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -62,9 +60,33 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Bhaviik-5202&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhaviik-5202&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaviik-5202&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaviik5202&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+# 📊 GitHub Stats :
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhaviik-5202&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhaviik-5202&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhaviik-5202&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhaviik-5202&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhaviik-5202&theme=radical&utcOffset=8">
+
+</div>
+
+---
+
+# 🔝 Top Contributed Repo :
+![](https://github-contributor-stats.vercel.app/api?username=Bhaviik-5202&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
