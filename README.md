@@ -22,17 +22,24 @@
 ---
 
 # 💫 About Me:
-- 🔭 Working on a **MERN-based Project**  
-- 🌱 Learning **Backend Development With MERN Stack**  
-- 💬 Ask me about **JavaScript and Backend basics**  
-- ⚡ Fun fact: **I love debugging more than coding 😄**
+
+- 🔭 Working on a **MERN-Based Project**  
+- 🌱 Exploring **Backend Logic** and **Database Design**
+- 💻 Comfortable With **JavaScript** and **Backend Fundamentals** 
+- 🛠️ Passionate About **Clean and Efficient Code**
 
 ---
 
 ## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavik-parmar-51baa1303)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Bhaviik-5202)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:er.bhavik5202@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YOUR_X_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+
 ---
 
 # 💻 Tech Stack:
