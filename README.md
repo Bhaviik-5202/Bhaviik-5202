@@ -22,9 +22,9 @@
 ---
 
 # 💫 About Me:
-- 🔭 Working on a **MERN-based Student Project Management System**  
-- 🌱 Learning **Backend Development with MERN Stack**  
-- 💬 Ask me about **JavaScript and backend basics**  
+- 🔭 Working on a **MERN-based Project**  
+- 🌱 Learning **Backend Development With MERN Stack**  
+- 💬 Ask me about **JavaScript and Backend basics**  
 - ⚡ Fun fact: **I love debugging more than coding 😄**
 
 ---
@@ -32,49 +32,33 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavik-parmar-51baa1303)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:er.bhavik5202@gmail.com)
-
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhaviik-5202&theme=dark&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Bhaviik-5202&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaviik-5202&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bhaviik-5202&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bhaviik-5202&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaviik-5202&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhaviik-5202&theme=radical&no-bg=true)
-
----
-
-```text
-Node.js Ecosystem (Academic / Learning):
-  Runtime Basics:     ███████████████░░░░░░░   65%
-  Express.js:         ████████████████░░░░░░   70%
-  REST API Design:    ███████████████░░░░░░░   65%
-  Middleware & Auth:  ██████████████░░░░░░░░   60%
-
-MERN Stack:
-  MongoDB Integration: ████████████████░░░░░░   70%
-  Backend (Node/Exp):  ████████████████░░░░░░   70%
-  React (Frontend):    ██████████████░░░░░░░░   60%
-  Full MERN Projects:  █████████████░░░░░░░░░   55%
-
-Database Skills:
-  SQL (MySQL):         ███████████████░░░░░░░   65%
-  MongoDB (NoSQL):     ████████████████░░░░░░   70%
-  Data Modeling:       ██████████████░░░░░░░░   60%
