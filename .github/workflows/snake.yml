@@ -1,0 +1,51 @@
+# Snake Animation - GitHub Action Setup
+## What is this?
+The snake animation on your profile is generated automatically by a GitHub Action
+that reads your contribution graph and turns it into an animated SVG.
+## Setup Steps
+### Step 1 — Create the workflow file
+Inside your `Bhaviik-5202` profile repo, create this file:
+```
+.github/
+  workflows/
+    snake.yml
+```
+### Step 2 — Paste this content into `snake.yml`
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:        # allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push output to `output` branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+### Step 3 — Enable Actions permissions
+1. Go to your repo → **Settings** → **Actions** → **General**
+2. Under **Workflow permissions**, select **Read and write permissions**
+3. Click **Save**
+### Step 4 — Run the action manually
+1. Go to **Actions** tab in your repo
+2. Click **Generate Snake Animation**
+3. Click **Run workflow**
+After it runs, the SVG files will be in the `output` branch and the snake will appear on your profile! 🐍
