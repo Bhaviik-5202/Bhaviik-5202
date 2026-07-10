@@ -26,7 +26,7 @@
 
 </div>
 
-<br/>
+<!-- <br/> -->
 
 ---
 
@@ -43,7 +43,7 @@
 - 📫 &nbsp;Reach me at **er.bhavik5202@gmail.com**
 - ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm proud of it 😄
 
-<br/><br/>
+<br/><br/><br/>
 
 ```javascript
 const bhaviik = {
